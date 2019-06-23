@@ -23,7 +23,7 @@ Peyton: A gender fluid Gen Z 21 year old, disillusioned with disconnection, who 
 
 Rohini: An elder millenial femme, not afraid of talking on the phone, and in fact considers it nostalgic! Finds the idea of eliminating unsolicited in-app messaging a refreshing way to cut through the bullshit. Recently figured out their zodiac sign and now consider astrology memes more insightful than therapy.
 
-Jared: A Gen X divorcé more than willing to revert to familiar phone call territory, as they never quite mastered the witticism required for text messaging. Finds astrology insufferable, but will give it a whirl.
+Jared: A Gen X divorcé more than willing to revert to familiar phone call territory, as they never quite mastered the witticism required of text messaging. Finds astrology insufferable, but will give it a whirl.
 
 ## Trello Board:
 https://trello.com/b/nFXk5B76/haunt
