@@ -1,28 +1,43 @@
 Capstone Product Plan
-The second deliverable for the capstone is your product plan.
 
-Product Plan Components
-Personal Learning Goals: A list outlining the major things that you want to focus on learning in this project.
+# Personal Learning Goals: 
+- Learning Java
+- Building a mobile app
 
-Problem Statement: A clear, concise statement describing the problem your project will solve. Re-use the problem statement from the concept write-up or update if you've made adjustments.
+# Problem Statement: 
 
-Market Research: Outline the key insights from your research, including:
+Dating apps currently allow users to cast a wide net rather than exhibit selectivity, and unlimited text messaging as the main form of communication prolongs often dead-end interactions where compatibility could be more quickly determined via phone call. Haunt limits user selection per day, displays (essential!) information about their potential match's birth chart, and sums up compatitiblity in a single emoji. If matched, users can select a time to talk on the phone, and the app then connects them anonymously.
 
-your application’s competition - what alternatives are already out there (competing apps and/or non-app solutions)
+# Market Research:
+
+## Competition:
+- Tinder: 
+- Hinge: 
+- Bumble: 
+- OkCupid: 
+- The League: 
+- IRL bars: 
+
 research from users on why these alternatives do not effectively address the problem.
 differentiation: what makes your idea/product different
-User Personas: A summary of your main target user group(s). What are their key characteristics? How do those characteristics factor into project/app/idea?
 
-Trello Board:
+# User Personas: 
+Peyton: A gender fluid Gen Z 21 year old, disillusioned with disconnection, who finds talking on the phone to feel fresh but also vintage. Tarot is their side-hustle, and they take their birth chart very seriously. 
 
-Flesh out the feature set that you created in the conceptual delivery to get started with your Trello board
-Technology selections:
+Rohini: An elder millenial femme, not afraid of talking on the phone, and in fact considers it nostalgic! Finds the idea of eliminating unsolicited in-app messaging a refreshing way to cut through the bullshit. Recently figured out their zodiac sign and now consider astrology memes more insightful than therapy.
 
-Front-end
-Back-end
-Infrastructure - Deployment or Code
-Wireframes:
+Jared: A Gen X divorcé more than willing to revert to familiar phone call territory, as they never quite mastered the witticism required for text messaging. Finds astrology insufferable, but will give it a whirl.
 
-Any format you may like - photos of paper, online tool and/or paper to show your instructors
-Format
-Since the Product Plan is part of your final deliverable and should be included in your repository, it would be easiest to do this initial draft in a markdown format for easy transferability to GitHub.
+# Trello Board:
+https://trello.com/b/nFXk5B76/haunt
+
+# Technology selections:
+- Android Studio
+- DynamoDB
+- Java
+- Mapper API
+- Twilio
+- OAuth
+
+# Wireframes
+- See physical copies.
