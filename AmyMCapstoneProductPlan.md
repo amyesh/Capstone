@@ -11,15 +11,12 @@ Dating apps currently allow users to cast a wide net rather than exhibit selecti
 # Market Research:
 
 ## Competition:
-- Tinder: 
-- Hinge: 
-- Bumble: 
-- OkCupid: 
-- The League: 
-- IRL bars: 
-
-research from users on why these alternatives do not effectively address the problem.
-differentiation: what makes your idea/product different
+- Bumble: Touted as 'the feminist dating app,' Bumble's heteronormative cisgender communication model excludes the reality of many users that don't meet that limited criteria, it also still relies on message-based and swipe-based user interaction.
+- Hinge: "The relationship app" - Matches based on mutual connection on Facebook rather than geographic location, so the pool of potential matches is much more limited. Instead of swiping, you can like pictures/videos/icebreaker responses, and message potential matches directly. Mimics other social media sites like Instagram's user connectivity, but with a more explicit intention. Purportedly uses the Gale-Shipley/Deferred Acceptance Algorithm.
+- Tinder: "The hookup app" Swipe and chat-based user interaction - alledgedly rates users attractiveness and selectivity in order influence matching algorithm. Paywall allows users to override matching algorithm with a 'superlike'. 
+- OkCupid & Match.com - Mainly web app services, but also have mobile components. Take in a lot of (read: potentially off-putting amount of) user input in order execute matching algorithm. Unlike some other apps you can search and browse users,  save them for the future, like their profiles, etc. Both have a paywall that allows certain users to get matches, or to override matching algorithm.
+- The League: Problematic dating app that takes applications and accepts only those who fit the elitist educational/professional criteria.
+- IRL bars: Tricky, for sure - they do allow you to suss out your compatibility relatively quickly though! Catch - inebriation can lead to inferior insight. Also, you actually have to go to the bar at the exact same time! What are the odds?!
 
 # User Personas: 
 Peyton: A gender fluid Gen Z 21 year old, disillusioned with disconnection, who finds talking on the phone to feel fresh but also vintage. Tarot is their side-hustle, and they take their birth chart very seriously. 
