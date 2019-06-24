@@ -35,6 +35,7 @@ https://trello.com/b/nFXk5B76/haunt
 - Mapper API
 - Twilio
 - OAuth
+- Heroku
 
 ## Wireframes
 - See physical copies.
