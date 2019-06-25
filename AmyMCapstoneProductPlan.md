@@ -35,7 +35,7 @@ https://trello.com/b/nFXk5B76/haunt
 - Mapper API
 - Twilio
 - OAuth
-- Heroku
+- Google Play ? I couldn't find any services to publish Android Apps otherwise.
 
 ## Wireframes
 - https://drive.google.com/open?id=1QXCr_ef-45LviTjKvNkXAmF09wbHJ9La
