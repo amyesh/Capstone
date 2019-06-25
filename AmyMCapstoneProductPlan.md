@@ -38,4 +38,4 @@ https://trello.com/b/nFXk5B76/haunt
 - Heroku
 
 ## Wireframes
-- See physical copies.
+- https://drive.google.com/open?id=1QXCr_ef-45LviTjKvNkXAmF09wbHJ9La
